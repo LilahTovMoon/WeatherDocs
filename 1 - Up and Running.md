@@ -12,7 +12,7 @@ Create a folder called `Dev` and inside that create a folder called `weather`.
 
 Open the Windows Start menu and start typing `PowerShell` and open PowerShell. Navigate to the `weather` folder you just created. For example `cd Dev/weather` if you created `Dev` in your home folder.
 
-Still in PowerShell, run `go mod init` and then `go get github.com/labstack/echo/v4`
+Still in PowerShell, run `go mod init weather` and then `go get github.com/labstack/echo/v4`
 
 ## Starting the Project
 
